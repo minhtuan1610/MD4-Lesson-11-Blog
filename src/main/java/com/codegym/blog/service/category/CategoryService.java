@@ -29,6 +29,5 @@ public class CategoryService implements ICategoryService {
 
     @Override
     public void remove(Long id) {
-
     }
 }
